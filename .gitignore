@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+#virtual environments
+.env
+.venv
+env/
+venv/
+*.conda
+*.ipynb_checkpoints
+*.DS_Store
+
+# Data
+data/*.zip
+data/*.SAFE/
+data/*.tif
+data/*.tiff
+data/s1_unzipped/
+data/rtc/
+
+#store small output artifacts
+!data/flood_overlay.html
+!data/floodlens_ranked.html
+!data/flood_scores.csv
+!data/flood_mask.tif
+!data/flood_preview.png
+# OS/IDE
+.idea/
+.vscode/
+*.swp
+
+*.log
+
+#MacOS system files
+.DS_Store
