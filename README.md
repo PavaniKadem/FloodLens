@@ -66,3 +66,7 @@ FloodLens
    data/floodlens_ranked.html -> AI-ranked flood map
    
 
+## Live Demo:
+```
+Interactive Flood Map: https://pavanikadem.github.io/FloodLens/
+Ranked Flood Map (AI-Scoring): https://pavanikadem.github.io/FloodLens/floodlens_ranked.html
