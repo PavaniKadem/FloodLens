@@ -61,6 +61,7 @@ FloodLens
    python src/run_demo.py
    
 5. Open results:
+   ```
    data/floodlens_demo.html -> Interactive demo map
    data/floodlens_ranked.html -> AI-ranked flood map
    
